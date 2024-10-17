@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, I am Jason👋
+
+I am a Computational Biologist at the Institute of Medical Statistics and Computational Biology at the University of Cologne. I love modeling complex systems to drive scientific discovery!
 
 <!--
 **jassk8/jassk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
