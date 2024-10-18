@@ -1,18 +1,28 @@
-## Hello World, I am Jason👋
+<p>
+  <h1 align="center"><b>Hello World, I am Jason! 💻</h1>
+</p>
 
-I am a Computational Biologist at the Institute of Medical Statistics and Computational Biology at the University of Cologne. I love modeling complex systems to drive scientific discovery!
+<p align=""justify>
+  I am a Computational Biologist at the Institute of Medical Statistics and Computational Biology at the University of Cologne. I love modeling complex systems to drive scientific discovery! Currently, I am a member of the CompBio work group:
+</p>
 
-<!--
-**jassk8/jassk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p align="center">
+  <a href="https://computationalbiology.uni-koeln.de/">
+    <img align="" src="logos/CB_logo.png" width="400"/>
+  </a>
+</p>
+<br/>
 
-Here are some ideas to get you started:
+<h2 align="center">My Research and Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=""justify>
+  My research focuses on the quantification of the RNA life cycle. In this context, I am the main developer of the software tool 'Halfpipe', which quantifies RNA half-lives.
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/IMSBCompBio/Halfpipe">
+    <img align="" src="logos/halfpipe_repo.PNG" width="400"/>
+  </a>
+</p>
+<br/>
