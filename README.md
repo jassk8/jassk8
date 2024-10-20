@@ -26,3 +26,17 @@
   </a>
 </p>
 <br/>
+
+<p align=""justify>
+  In addition, I have developed a simulation framework called RNAmetabol that can be used for experimental design of RNA metabolism experiments with 4sU labeling.
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/jassk8/RNAmetabol">
+    <img align="" src="logos/RNAmetabol_repo.png" width="400"/>
+  </a>
+</p>
+<br/>
+
+
+
