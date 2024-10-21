@@ -40,3 +40,19 @@
 
 
 
+<h2 align="center"> Highlight Publications</h2>
+
+<p align="justify">
+  <a href="https://www.biorxiv.org/content/10.1101/2024.09.19.613510v1">[1]</a> 
+  Müller et al. (2024) 
+  Halfpipe: a tool for analyzing metabolic labeling RNA-seq data to quantify RNA half-lives. 
+  bioRxiv.
+</p>
+
+<p align="justify">
+  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012059">[2]</a> 
+  Müller et al. (2024) 
+  Nuclear export is a limiting factor in eukaryotic mRNA metabolism. 
+  PLOS Computational Biology.
+</p>
+
