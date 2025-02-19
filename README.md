@@ -43,10 +43,10 @@
 <h2 align="center"> Highlight Publications</h2>
 
 <p align="justify">
-  <a href="https://www.biorxiv.org/content/10.1101/2024.09.19.613510v1">[1]</a> 
-  Müller et al. (2024) 
+  <a href="https://academic.oup.com/nargab/article/7/1/lqaf006/8020196?searchresult=1">[1]</a> 
+  Müller et al. (2025) 
   Halfpipe: a tool for analyzing metabolic labeling RNA-seq data to quantify RNA half-lives. 
-  bioRxiv.
+  NAR Genomics and Bioinformatics.
 </p>
 
 <p align="justify">
