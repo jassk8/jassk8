@@ -3,7 +3,7 @@
 </p>
 
 <p align=""justify>
-  I am a Computational Biologist at the Institute of Medical Statistics and Computational Biology at the University of Cologne. I love modeling complex systems to drive scientific discovery! Currently, I am a member of the CompBio work group:
+  I am a Computational Biologist by training and currently work as a Research Scientist at Beiersdorf. During my PostDoc, I worked for the Institute of Medical Statistics and Computational Biology at the University of Cologne. I love modeling complex systems to drive scientific discovery! In the past, I was a member of the CompBio work group (UoC):
 </p>
 
 <br/>
